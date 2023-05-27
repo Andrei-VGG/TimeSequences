@@ -1,10 +1,10 @@
 # TimeSequences
 
-<br>We'll investigate 6 typical time seguences:
-- monthly ales of company
+<br>We'll investigate 6 typical time sequences:
+- monthly sales of company
 - monthly boston armed robberies
 - international airline passengers
-- mean monthly air temperature degree
+- mean monthly air temperature
 - weekly closings of the Dow Jones
 - daily total female births in California
 <br>
