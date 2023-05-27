@@ -10,7 +10,7 @@
 <br>
 
 
-## **Description of tasks **: 
+## Description of tasks: 
 <br>The first task is to analyse time sequences and to bring them to a stationary form.
 
 <br>
